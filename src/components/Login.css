@@ -1,0 +1,78 @@
+.login__logo {
+	width: 100px;
+	object-fit: contain;
+	padding: 20px;
+}
+
+.login {
+	background-color: white;
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.login__container {
+	width: 300px;
+	display: flex;
+	flex-direction: column;
+	padding: 20px;
+	border: 1px solid lightgray;
+}
+
+.login__container > h1 {
+	font-weight: 600;
+	margin-bottom: 20px;
+}
+
+.login__container > form > h5 {
+	margin-bottom: 5px;
+}
+
+.login__container > form > input {
+	height: 30px;
+	margin-bottom: 10px;
+	background-color: white;
+	width: 98%;
+}
+
+.login__container > p {
+	margin-top: 15px;
+	font-size: 12px;
+}
+
+.login__signInButton {
+	background: #f0c14b;
+	border-radius: 2px;
+	margin-top: 10px;
+	color: #111;
+	width: 100%;
+	height: 30px;
+	border: 1px solid;
+	padding: 8px;
+	border-color: #abb734 #9c7e31 #846a29;
+
+	opacity: 0.9;
+}
+
+.login__signInButton:hover {
+	cursor: pointer;
+	opacity: 1;
+}
+
+.login__registerButton {
+	border-radius: 2px;
+	margin-top: 10px;
+	color: #111;
+	width: 100%;
+	height: 30px;
+	border: 1px solid;
+	padding: 8px;
+	border-color: darkgray;
+	opacity: 0.9;
+}
+
+.login__registerButton:hover {
+	cursor: pointer;
+	opacity: 1;
+}
