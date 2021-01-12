@@ -1,4 +1,7 @@
-# Tools Used
+#
+A clone of Amazon Website using ReactJS
+
+## Tools Used
 1. create-react-app
 2. material-ui
 3. react router
