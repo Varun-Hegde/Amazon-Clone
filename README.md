@@ -1,5 +1,4 @@
-#
-A clone of Amazon Website using ReactJS
+# A clone of Amazon Website using ReactJS
 
 ## Tools Used
 1. create-react-app
