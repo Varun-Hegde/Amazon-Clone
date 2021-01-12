@@ -7,5 +7,5 @@
 4. react currency format
 
 
-## Live site link:  
+## Demo:  
 https://clone-3dda8.firebaseapp.com/
